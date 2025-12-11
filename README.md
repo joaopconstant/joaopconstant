@@ -1,20 +1,9 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hi, I'm <strong>João Pedro Constant</strong></h1>
+<h1 align="center">👋 Hi, I'm <strong>João Constant</strong></h1>
 <h3 align="center">Full Stack Developer — React | Next.js | Node.js</h3>
 
 <p align="center">
-  <a href="mailto:joaoconstantdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-joaoconstantdev%40gmail.com-red?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/joaopconstant">
-    <img src="https://img.shields.io/badge/GitHub-joaopconstant-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/joaopconstant">
-    <img src="https://img.shields.io/badge/LinkedIn-João%20Constant-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://constant-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Online-green?style=for-the-badge&logo=vercel" />
-  </a>
+  
 </p>
 
 ---
@@ -35,30 +24,20 @@ I'm driven by:
 
 ## 🧠 Tech Stack
 
+## Languages
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
+
 ### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwind-css)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,redux,tailwind)](https://skillicons.dev)
 
 ### **Backend**
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![REST API](https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge&logo=api)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 ### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 
 ### **Infra & Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,supabase,docker)](https://skillicons.dev)
 
 ---
 
