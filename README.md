@@ -6,13 +6,13 @@
   <a href="mailto:joaoconstantdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-joaoconstantdev%40gmail.com-red?style=for-the-badge" />
   </a>
-  <a href="https://github.com/joaoconstant">
-    <img src="https://img.shields.io/badge/GitHub-joaoconstant-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/joaopconstant">
+    <img src="https://img.shields.io/badge/GitHub-joaopconstant-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/joaoconstant">
+  <a href="https://linkedin.com/in/joaopconstant">
     <img src="https://img.shields.io/badge/LinkedIn-João%20Constant-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="https://constant-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Online-green?style=for-the-badge&logo=vercel" />
   </a>
 </p>
@@ -62,27 +62,11 @@ I'm driven by:
 
 ---
 
-## 🧩 Featured Projects
-
-### 🔹 **Internal Automation System**  
-**Next.js • Node.js • PostgreSQL**  
-A production-ready tool used by businesses to automate workflows, integrate APIs, and reduce operational time.
-
-### 🔹 **Professional Website Platform (CMS Included)**  
-**Next.js • Supabase • TailwindCSS**  
-A customizable, SEO-optimized platform deployed on Vercel, used by clients to manage content and digital presence.
-
-### 🔹 **Business Intelligence Dashboard**  
-**Looker Studio**  
-Real-time analytics dashboard supporting strategic decision-making.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaoconstant&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoconstant&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaopconstant&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopconstant&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
