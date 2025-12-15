@@ -1,67 +1,52 @@
-<!-- HEADER -->
-<h1 align="center">👋 Hi, I'm <strong>João Constant</strong></h1>
+<h1 align="center">👋 Hi, I'm João Constant</h1>
 <h3 align="center">Full Stack Developer — React | Next.js | Node.js</h3>
 
 <p align="center">
-  
+  Building scalable web applications, internal systems and high-performance user interfaces.
 </p>
 
----
+## 🚀 About Me
 
-## About Me
+I’m a **Full Stack Developer** with strong experience in building **modern front-end applications**, **internal systems**, **automation tools**, and **API-driven solutions**.
 
-I'm a **Full Stack Developer** focused on building **high-performance interfaces**, **internal systems**, **automation tools**, and **API-driven solutions**.
+My work focuses on delivering **real-world products** for companies and professionals, using modern technologies and best practices to ensure performance, scalability, and maintainability.
 
-I work extensively with **React**, **Next.js**, **Node.js**, and **SQL/NoSQL databases**, delivering real products for companies and professionals.
-
-I'm driven by:
-- Clean architecture  
+I’m especially driven by:
+- Clean and maintainable architecture  
 - Scalable front-end systems  
-- High-performance applications  
-- Real-world problem solving  
+- High-performance web applications  
+- Solving real business problems with technology
+  
+## 🧠 Tech Stack
 
----
-
-## Tech Stack
-
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
+### **Languages**
+[![Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
 ### **Frontend**
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,redux,tailwind)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,vite,redux,tailwind)](https://skillicons.dev)
 
 ### **Backend**
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 ### **Databases**
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 
 ### **Infra & Tools**
-[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,supabase,docker)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,github,vercel,supabase,docker)](https://skillicons.dev)
 
----
 
-## GitHub Stats
+## 🔥 Current Focus
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaopconstant&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopconstant&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+- Advanced Next.js performance optimization  
+- Design patterns and clean architecture  
+- End-to-end testing with Playwright and Jest  
+- Scalable Full Stack application design  
 
----
 
-## Current Focus
-- Advanced Next.js performance tuning  
-- Design Patterns & clean architecture  
-- End-to-end testing (Playwright / Jest)  
-- Full Stack scalability techniques  
+## 🤝 Let’s Build Something Together
 
----
-
-## 🤝 Let's Build Something
-
-I’m open to collaborations, freelance projects, and exciting opportunities.
+I’m open to collaborations, freelance projects, and new opportunities.
 
 📧 **Email:** joaoconstantdev@gmail.com  
 🌐 **Portfolio:** your-link-here  
-📌 **LinkedIn:** linkedin.com/in/joaoconstant  
+💼 **LinkedIn:** https://linkedin.com/in/joaoconstant  
