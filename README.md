@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Full Stack Developer** focused on building **high-performance interfaces**, **internal systems**, **automation tools**, and **API-driven solutions**.
 
@@ -22,9 +22,9 @@ I'm driven by:
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
-## Languages
+### Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
 ### **Frontend**
@@ -41,7 +41,7 @@ I'm driven by:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaopconstant&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -50,7 +50,7 @@ I'm driven by:
 
 ---
 
-## 🔥 Current Focus
+## Current Focus
 - Advanced Next.js performance tuning  
 - Design Patterns & clean architecture  
 - End-to-end testing (Playwright / Jest)  
