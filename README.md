@@ -11,7 +11,7 @@
 
 ###
 
-I’m a **Full Stack Developer** with strong experience in building **modern front-end applications**, **internal systems**, **automation tools**, and **API-driven solutions**.
+I’m a **Full Stack Developer** with strong interest in building **modern full-stack applications**, **internal systems**, **automation tools**, and **API-driven solutions**.
 
 My work focuses on delivering **real-world products** for companies and professionals, using modern technologies and best practices to ensure performance, scalability, and maintainability.
 
