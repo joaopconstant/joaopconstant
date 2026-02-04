@@ -31,19 +31,39 @@ I’m currently deepening my expertise in front-end engineering while maintainin
 
 ###
 
-<h4 align="left">Languages & Frameworks</h4>
+<h4 align="left">Programing Languages</h4>
 
 ###
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" />
+</div>
+
+###
+
+<h4 align="left">Front-end</h4>
+
+###
+
+<div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="25" />
+
+</div>
+
+###
+
+<h4 align="left">Back-end</h4>
+
+###
+
+<div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="25" alt="nestjs logo"  />
 </div>
 
 ###
@@ -72,15 +92,14 @@ I’m currently deepening my expertise in front-end engineering while maintainin
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" height="25" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="25" />
 </div>
 
 ###
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopconstant&locale=en&layout=compact&langs_count=5&theme=dark&hide_border=false" height="150" />
-</div>
+</div> -->
 
 <h2 align="left">🤝 Let’s Build Something Together</h2>
 
