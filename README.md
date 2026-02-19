@@ -74,15 +74,3 @@ Building scalable user interfaces, front-end architectures, and production-ready
 </div>
 
 ###
-
-<!-- <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopconstant&locale=en&layout=compact&langs_count=5&theme=dark&hide_border=false" height="150" />
-</div> -->
-
-<h2 align="left">🤝 Let’s Build Something Together</h2>
-
-I’m open to collaborations, freelance projects, and job opportunities.
-
-📧 <strong>Email:</strong> joaoconstantdev@gmail.com  
-🌐 <strong>Portfolio:</strong> https://constant-portfolio.vercel.app/  
-💼 <strong>LinkedIn:</strong> https://linkedin.com/in/joaopconstant  
