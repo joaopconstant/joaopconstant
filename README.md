@@ -7,26 +7,6 @@
 Building scalable user interfaces, front-end architectures, and production-ready web applications.
 </p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-I’m a **Front-end Engineer** with experience building **modern web applications**, **internal systems**, and **business-focused digital products**.
-
-My background includes working with **React and Next.js** on real-world projects, collaborating with teams, and delivering complete solutions from interface to deployment. I also have hands-on experience with **Node.js APIs**, which allows me to work efficiently across the full stack when needed.
-
-My main focus is on:
-- Scalable and maintainable front-end architectures  
-- High-performance React and Next.js applications  
-- Clean code and predictable systems  
-- Solving real business problems with technology  
-
-I’m currently deepening my expertise in front-end engineering while maintaining solid full-stack foundations.
-
-###
-
 <h2 align="left">Tech Stack</h2>
 
 ###
@@ -105,4 +85,4 @@ I’m open to collaborations, freelance projects, and job opportunities.
 
 📧 <strong>Email:</strong> joaoconstantdev@gmail.com  
 🌐 <strong>Portfolio:</strong> https://constant-portfolio.vercel.app/  
-💼 <strong>LinkedIn:</strong> https://linkedin.com/in/joaoconstant  
+💼 <strong>LinkedIn:</strong> https://linkedin.com/in/joaopconstant  
