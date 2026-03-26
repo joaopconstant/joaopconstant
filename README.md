@@ -1,4 +1,4 @@
-```typescript
+```lua
   const constant {
     name: "João Pedro Constant",
     role: "Full Stack Developer",
