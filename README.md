@@ -1,11 +1,11 @@
 ```lua
   const constant {
     name: "João Pedro Constant",
-    role: "Full Stack Developer",
+    role: "Full Stack Engineer",
     focus: [
       "Web Applications",
-      "Systems as a Service",
-      "Corporate Websites",
+      "Software as a Service",
+      "Institutional Websites",
       "Landing Pages"
     ],
     available: true
